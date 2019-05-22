@@ -7,7 +7,10 @@
 <h4 align="center">open source e-commerce platform javascript full stack with reactjs and nodejs</h4>
 
 <div class="badges-holder">
-  </a>
+  </a>  
+  <a href="https://t.me/tegcommerce">
+		<img src="https://img.shields.io/badge/community-telegram-blue.svg">
+	</a>  
   <a href="https://github.com/tegcommerce/tegcommerce/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-MIT-%23373737.svg">
 	</a>
