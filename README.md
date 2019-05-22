@@ -91,8 +91,8 @@
 * order tracking
 * email marketing
 * qr code
-* crm System
-* erp System
+* crm system
+* erp system
 * conversational commerce with chat and chatbot
 * vr commerce with virtual reality and augmented virtual reality
 * network of stores on a single tegcommerce installation
