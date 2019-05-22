@@ -11,7 +11,7 @@
   <a href="https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI">
 	  <img src="https://img.shields.io/badge/slack-tegcommerce-green.svg?style=flat-square">
   </a>
-	<a href="https://github.com/tegcommerce/tegcommerce/blob/master/LICENSE">
+  <a href="https://github.com/tegcommerce/tegcommerce/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-MIT-%23373737.svg">
 	</a>
   <a href="https://github.com/tegcommerce/tegcommerce/search?l=javascript">
