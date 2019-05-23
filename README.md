@@ -93,11 +93,6 @@
 * qr code
 * crm system
 * erp system
-* conversational commerce with chat and chatbot
-* vr commerce with virtual reality and augmented virtual reality
-* network of stores on a single tegcommerce installation
-* integrated backup system with cloud storage services
-* prevent brute force password discovery
 * app with fingerprint biometrics
 * app with voice biometrics
 * app with image biometrics
@@ -107,6 +102,12 @@
 * domain
 * ssl certificate
 * cdn
+* conversational commerce with chat and chatbot
+* vr commerce with virtual reality and augmented virtual reality
+* network of stores on a single tegcommerce installation
+* integrated backup system with cloud storage services
+* prevent brute force password discovery
+* internet of things
 * blockchain
 
 ## community
