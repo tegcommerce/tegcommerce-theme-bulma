@@ -1,0 +1,20 @@
+@import "./custom_colors";
+
+nav.navbar {
+  border-bottom: 1px solid $custom-gray;
+  .navbar-brand {
+    img {
+      
+    }
+  }
+}
+
+div.field {
+  .iconSpaced {
+    padding-left: 30px;
+    .userName {
+      font-size: 20px;
+      text-align: center;
+    }
+  }
+}
