@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+@import "~bulma/sass/utilities/functions";
+@import "./styles/custom_colors";
+
+//Classe de cores para ser chamada pelo js
+$custom-colors: (
+        "custom-green-darker": ($custom-green-darker),
+        "custom-green-lighter": ($custom-green-lighter),
+        "custom-gray": ($custom-gray),
+        "custom-gray-darker": ($custom-gray-darker),
+        "custom-black": ($custom-black),
+        "custom-orange": ($custom-orange),
+);
+
+//Import Bulma styles
+@import "~bulma/bulma";
+
+//Import rbx style fixes (**very simple**)
+@import "~rbx/rbx";
+
+.dashed_box {
+   font-size: 14px;
+   background: white;
+   font-weight: bold;
+   border: 1px dashed $custom-gray;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+$navbar-height: 5rem !default;
+
+body {
+background-image: radial-gradient(#d7e7f8, white)
+}
