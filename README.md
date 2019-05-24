@@ -67,6 +67,8 @@
 * integration with erp platforms
 * integration with crm platforms
 * integration with marketplace platforms
+  * integration with mercado livre
+  * integration with mercado livre store
 * integration with classified platforms
 * integration with delivery service companies
 * inntegration with payment intermediaries
@@ -75,11 +77,16 @@
 * integration with social networks
 * integration with google services
 * integration with facebook services
+  * integration with facebook store
 * api for plugins
 * spam blocker
 * search filter products
 * product recommendation
 * content block editor
+* simplified installation via packages
+  * snap/snappy
+  * flatpak
+  * appimage
 
 ### planned
 * affiliate
