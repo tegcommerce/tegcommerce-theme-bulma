@@ -1,0 +1,14 @@
+@import "./custom_colors";
+
+
+.search {
+    display: flex !important;
+    justify-content: center !important;
+}
+    div.control {
+        input {
+            width: 400px;
+            display: flex;
+            justify-content: center !important;
+        }
+    }
