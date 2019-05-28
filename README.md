@@ -155,6 +155,3 @@ check out how to [contribute](https://github.com/tegcommerce/tegcommerce-contrib
 
 ## license
 tegcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
-
-## credit
-we thank our core team davimonteiro, devfelipemonteiro, felipenoka, adamwairdev, bradlincoln, christie201, jameselbourn, loubrazier, michaelminarwa, richardlond, rudysing, setkinanne and other incredible collaborators.
