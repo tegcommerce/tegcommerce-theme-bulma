@@ -94,6 +94,7 @@ https://gitpod.io/#https://github.com/tegcommerce/tegcommerce
 
 ### planned
 * affiliate
+* theme default with page builder
 * dropshipping
 * transparent checkout
 * one page checkout
