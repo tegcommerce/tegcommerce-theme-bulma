@@ -37,9 +37,9 @@
 ## requirement
 * git
 * npm (> = 5.x)
-* nodejs (> = 8.x)
+* nodejs (> = 10.x)
+* expressjs (> = 4.x)
 * reactjs
-* redux
 * postgresql
 
 ## installation
